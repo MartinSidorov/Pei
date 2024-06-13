@@ -12,7 +12,7 @@ function orderSummary(orderDetails) {
 }
 
 const orderDetails = {
-  orderId: '123456',
+  orderId: '12346',
   customerName: 'Martin Sidorov',
   items: ['Item 1 - $10.00', 'Item 2 - $15.00'],
   totalAmount: 25.00
