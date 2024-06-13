@@ -1,7 +1,7 @@
 function countCode(str) {
     const regex = /code/ig;
     const matches = str.match(regex);
-    return matches ? matches.length : 0;
+    return matches ? matches.length : 1;
 }
 
 // Example usage
